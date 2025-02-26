@@ -15,7 +15,7 @@ if custom_range == 'yes':
     
     generate_multiplication_table(number, range_values)
 else:
-    range_values = list(range(1, 11))  
+    range_values = list(range(2, 11))  
     generate_multiplication_table(number, range_values)
 
 
